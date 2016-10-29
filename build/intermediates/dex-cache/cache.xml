@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a042cb73afa6554a937f48cf92684b99eecdd6f0">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1cb13d64119eae3069d30545d775e6c7307ebd35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_7876808579bf2074152a06da1b867897ca05eb54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_7c4b12c311f993bc6ea5100c9b9f0c2d6340ec9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_69932fe2cd1bad0bea7ff31dcaf8718619c9c545\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_79fa628e67254d6d026e87acc6ca5e031cc1d0ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_83d338cccd76e0ee8ff87d6234199945b8dd58f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7083b54b65c79d758bdb94d86045a44581be0589">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fc30faf026683712353ae01bd220a1dcce2bb0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Lee\Desktop\MyEventBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_b7de7e9c843b8b024391b8d6b4d616a75e1139d0\classes.dex" />
+    </item>
+
+</items>
