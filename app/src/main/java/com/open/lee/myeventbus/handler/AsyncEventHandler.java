@@ -8,6 +8,7 @@ import java.util.concurrent.Executors;
 
 /**
  * Created by Lee on 2016/10/29.
+ * 异步事件处理器
  */
 
 public class AsyncEventHandler implements EventHandler{

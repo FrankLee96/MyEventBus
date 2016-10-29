@@ -11,5 +11,9 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
 public @interface Register {
+    /**
+     * 线程模式，默认为POST
+     * @return 线程模式值
+     */
     ThreadMode threadMode() default ThreadMode.POST;
 }

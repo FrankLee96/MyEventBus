@@ -16,6 +16,10 @@ public class RegisterMethodsSearcher {
         this.mainMap = mainMap;
     }
 
+    /**
+     * 搜索注册者的方法中的注解方法
+     * @param register 注册者对象
+     */
     public void searchRegisterMethods(Object register){
         if(register == null){
             throw new NullPointerException("register is null!");
@@ -57,6 +61,11 @@ public class RegisterMethodsSearcher {
         mainMap.put(eventType, registerEntityList);
     }
 
+    /**
+     * 判断是否是系统类
+     * @param name 类的名字
+     * @return 判断结果
+     */
     private boolean isSystemClass(String name) {
         return name.startsWith("java.") || name.startsWith("javax.") || name.startsWith("android.");
     }

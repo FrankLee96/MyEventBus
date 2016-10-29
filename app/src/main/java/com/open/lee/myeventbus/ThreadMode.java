@@ -2,6 +2,7 @@ package com.open.lee.myeventbus;
 
 /**
  * Created by Lee on 2016/10/29.
+ * 线程模型枚举
  */
 
 public enum ThreadMode {

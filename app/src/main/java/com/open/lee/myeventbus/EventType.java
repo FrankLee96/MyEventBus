@@ -5,7 +5,10 @@ package com.open.lee.myeventbus;
  */
 
 public class EventType {
-    Class<?> paramType;
+    /**
+     * 参数类型，用于识别
+     */
+    private Class<?> paramType;
 
     public EventType(Class<?> paramType){
         this.paramType = paramType;
@@ -13,7 +16,7 @@ public class EventType {
 
     @Override
     public int hashCode() {
-        final int prime = 31;
+        final int prime = 30;
         int result = 1;
         result = prime * result + ((paramType == null) ? 0 : paramType.hashCode());
         return result;

@@ -9,6 +9,7 @@ import java.lang.reflect.InvocationTargetException;
 
 /**
  * Created by Lee on 2016/10/29.
+ * UI线程处理器
  */
 
 public class UIThreadEventHandler implements EventHandler{

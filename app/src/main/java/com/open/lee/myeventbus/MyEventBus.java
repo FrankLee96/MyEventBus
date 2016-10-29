@@ -17,6 +17,9 @@ import java.util.concurrent.CopyOnWriteArrayList;
  */
 
 public enum MyEventBus {
+    /**
+     * 用枚举实现单例模式，INSTANCE为单例枚举值
+     */
     INSTANCE;
 
     private final Map<EventType, CopyOnWriteArrayList<RegisterEntity>> mainMap = new
